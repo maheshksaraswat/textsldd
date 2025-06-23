@@ -44,14 +44,14 @@
             "Description": "",
             "Dimensions": [
               [
-                0,
-                0
+                6,
+                3
               ]
             ],
             "DocUnits": "",
             "Max": [],
             "Min": [],
-            "Value": [2]
+            "Value": [4]
           }
         },
         "metadata": {
