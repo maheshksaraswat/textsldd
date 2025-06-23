@@ -1,3 +1,68 @@
-<<<<<<< OURS
-// Manual resolution required for .sldd
->>>>>>> THEIRS
+{
+  "/data/chunk0.xml": {
+    "entries": [
+      {
+        "name": "a",
+        "value": {
+          "className": "Simulink.Parameter",
+          "constructorArg": {},
+          "dynamicProperties": {},
+          "properties": {
+            "CoderInfo": {
+              "className": "Simulink.CoderInfo",
+              "constructorArg": {},
+              "dynamicProperties": {},
+              "properties": {
+                "Alias": "",
+                "Alignment": {
+                  "mwdata": [
+                    -1
+                  ],
+                  "mwsize": [
+                    1,
+                    1
+                  ],
+                  "mwtype": "int32"
+                },
+                "CSCPackageName": "Simulink",
+                "CustomAttributes": {
+                  "className": "SimulinkCSC.AttribClass_Simulink_Default",
+                  "constructorArg": {},
+                  "dynamicProperties": {},
+                  "properties": {}
+                },
+                "CustomStorageClass": "Default",
+                "HasCoderInfo": true,
+                "IsCSCPackageOverridden": false,
+                "ParameterOrSignal": "Parameter",
+                "StorageClass": "Auto",
+                "TypeQualifier": ""
+              }
+            },
+            "Complexity": "real",
+            "DataType": "auto",
+            "Description": "",
+            "Dimensions": [
+              [
+                7,
+                3
+              ]
+            ],
+            "DocUnits": "",
+            "Max": [],
+            "Min": [],
+            "Value": [4]
+          }
+        },
+        "metadata": {
+          "className": "DD.ENTRY",
+          "lastmod": "2025-05-11T09:54:30.427592",
+          "modifiedby": "jkhurana",
+          "uuid": "49b35310-7a42-421a-af10-180b9b6249b5"
+        }
+      }
+    ],
+    "Dictionary References": [],
+    "AllowAccessBWS": false
+  }
+}
