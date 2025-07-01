@@ -1,1 +1,3 @@
 *.sldd binary merge=prohibit
+*.sldd diff
+
