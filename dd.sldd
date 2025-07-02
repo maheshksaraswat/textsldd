@@ -2,7 +2,7 @@
   "/data/chunk0.xml": {
     "entries": [
       {
-        "name": "a1",
+        "name": "a",
         "value": {
           "className": "Simulink.Parameter",
           "constructorArg": {},
@@ -44,8 +44,8 @@
             "Description": "",
             "Dimensions": [
               [
-                7,
-                6
+                8,
+                7
               ]
             ],
             "DocUnits": "",

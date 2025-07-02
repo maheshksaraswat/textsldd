@@ -1,1 +1,2 @@
-*.sldd merge=prohibit
+*.sldd binary merge=prohibit
+
