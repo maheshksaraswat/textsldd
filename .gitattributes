@@ -1,5 +1,2 @@
-*.sldd binary merge=prohibit
-<<<<<<< HEAD
-=======
+*.sldd binary diff merge=prohibit
 
->>>>>>> 6325b170522c8b5f22dd0fb6432857d93f0f4b3a
